@@ -1,6 +1,6 @@
 [project]
 name = "kling"
-version = "0.1.1"
+version = "0.1.2"
 description = "Kling Dify-parity tools through Ace Data Cloud for ComfyUI"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
@@ -14,5 +14,5 @@ Documentation = "https://github.com/AceDataCloud/KlingComfyUI#readme"
 
 [tool.comfy]
 PublisherId = "acedatacloud"
-DisplayName = "Kling by Ace Data Cloud"
+DisplayName = "Kling"
 Icon = "https://raw.githubusercontent.com/AceDataCloud/KlingComfyUI/main/assets/logo-400.png"
